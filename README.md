@@ -1,6 +1,6 @@
-# prueba_nick
+# Cegid App
 
-PruebaNick
+App mobile development
 
 ## Getting Started
 
